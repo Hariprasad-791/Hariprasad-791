@@ -22,7 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hariprasad-br/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="hariprasadbr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hariprasad-br/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="hariprasad-br" height="30" width="40" />
+</a>
 <a href="https://twitter.com/hariprasad_791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hariprasad_791" height="30" width="40" /></a>
 </p>
 
