@@ -12,15 +12,13 @@
 
 - 💞️ I’m looking to collaborate on projects
 
-- 🌱 I’m currently learning **Advanced Machine Learning & Security Mechanisms**  
-
 - 💬 Ask me about **AI, Cybersecurity, and Automation**  
 
 - 📫 How to reach me **hari79168@gmail.com**  
 
 - ⚡ Fun fact **I love exploring new tech stacks & automating repetitive tasks**  
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: hari79168@gmail.com</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hariprasad-br/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="hariprasad-br" height="30" width="40" />
