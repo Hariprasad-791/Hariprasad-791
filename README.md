@@ -12,10 +12,9 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hariprasad-791&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Hariprasad-791&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
   </a> 
 </p>
-
 
 ## 💡 What I'm Up To
 
@@ -70,11 +69,17 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hariprasad-791&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Hariprasad-791&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariprasad-791&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
+
+## 🔥 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Hariprasad-791?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
 </div>
 
 ## 🌐 Let's Connect!
@@ -88,6 +93,9 @@
   </a>
   <a href="mailto:hari79168@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://leetcode.com/Hariprasad-791/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
 
