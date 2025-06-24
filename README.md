@@ -79,7 +79,7 @@
 ## 🔥 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Hariprasad-791?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/hariprasad_br?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
 </div>
 
 ## 🌐 Let's Connect!
@@ -94,7 +94,7 @@
   <a href="mailto:hari79168@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://leetcode.com/Hariprasad-791/">
+  <a href="https://leetcode.com/u/hariprasad_br/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
