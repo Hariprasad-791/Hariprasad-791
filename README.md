@@ -76,11 +76,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariprasad-791&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
-## 🔥 LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/hariprasad_br?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
-</div>
 
 ## 🌐 Let's Connect!
 
