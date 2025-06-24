@@ -23,7 +23,7 @@
 - 👯 Looking to collaborate on **ML Research & Open Source Projects**
 - 💬 Ask me about **AI, Machine Learning, Full-Stack Development, Blockchain**
 - 📫 Reach me at **hari79168@gmail.com**
-- ⚡ Fun fact: **I automate everything I can and love exploring Karnataka's beautiful places!**
+- ⚡ Fun fact: **I automate everything I can **
 
 ## 🛠️ Tech Arsenal
 
