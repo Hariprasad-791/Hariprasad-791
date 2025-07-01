@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hariprasad B R</h1>
-<h3 align="center">🚀 Full-Stack Developer | ML Enthusiast | CSE Student from India 🇮🇳</h3>
+<h3 align="center">🚀 Full-Stack Developer | ML Enthusiast | CSE Student </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -20,10 +20,10 @@
 
 - 🔭 Working on **Projects**
 - 🌱 Currently mastering **Data Structures & Algorithms**
-- 👯 Looking to collaborate on **ML Research & Open Source Projects**
+- 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **AI, Machine Learning, Full-Stack Development, Blockchain**
 - 📫 Reach me at **hari79168@gmail.com**
-- ⚡ Fun fact: **I automate everything I can **
+- ⚡ Fun fact: **I automate everything I can**
 
 ## 🛠️ Tech Arsenal
 
