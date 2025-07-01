@@ -28,7 +28,6 @@
 ## 🛠️ Tech Arsenal
 
 <details>
-<summary>Click to expand my tech stack!</summary>
 
 ### **Languages**
 <p align="left">
@@ -93,17 +92,3 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
-<div align="center">
-  
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
-
-*Thanks for visiting! ⭐ Star some repositories if you find them interesting!*
-
-</div>
